@@ -1,10 +1,7 @@
-
 pandas
 numpy
 requests
 python-dotenv
-pyspark
-delta-spark
 pyarrow
 pytest
 matplotlib
