@@ -5,4 +5,5 @@ python-dotenv
 pyarrow
 pytest
 matplotlib
-seabornplotly
+seaborn
+plotly
